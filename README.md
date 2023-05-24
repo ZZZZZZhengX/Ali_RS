@@ -2,8 +2,6 @@
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cmx-cross-modal-fusion-for-rgb-x-semantic/semantic-segmentation-on-rsmss)](https://paperswithcode.com/sota/semantic-segmentation-on-rsmss?p=cmx-cross-modal-fusion-for-rgb-x-semantic)
 
-![Example segmentation](segmentation.jpg?raw=true "Example segmentation")
-
 
 ## Usage
 ### Installation
